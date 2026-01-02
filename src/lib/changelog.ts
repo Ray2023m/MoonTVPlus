@@ -17,7 +17,8 @@ export const changelog: ChangelogEntry[] = [
 		"播放器显示截屏按钮",
 		"播放器在移动端增加快进快退控件",
 		"私人影库增加扫描模式",
-		"定时任务接口增加鉴权"
+		"定时任务接口增加鉴权",
+		"tmdb轮播图支持预告片显示"
     ],
     changed: [
 		"调整竖向videocard样式",
